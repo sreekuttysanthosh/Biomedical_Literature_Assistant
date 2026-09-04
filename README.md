@@ -447,11 +447,14 @@ This application is intended for AI-assisted biomedical literature exploration a
 The generated AI analysis should not be considered a replacement for reading and critically evaluating the original scientific publications.
 
 Users should consult the original research articles before making scientific, medical, or clinical decisions.
+
 ----
 ## 🎓Academic Purpose
 AI-generated content may contain errors or incomplete interpretations.
 
+
 Always verify important information against the original scientific publications.
+
 ------
 ## ⚠️ Scientific Responsibility
 This project demonstrates the integration of:
