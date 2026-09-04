@@ -468,6 +468,7 @@ This project demonstrates the integration of:
 * Automated report generation
 
 The project combines biomedical research resources with AI to support literature exploration and research discovery.
+
 -----
 ## Author
 Sreekutty Santhosh
