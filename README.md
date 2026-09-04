@@ -392,7 +392,8 @@ Potential research gaps
 Possible future research directions
 
 This can help users quickly orient themselves to a biomedical research topic before reading the original publications in detail.
-----
+
+-----
 ## 🔐 Security
 API credentials are stored locally using environment variables.
 The project uses:
