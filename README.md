@@ -5,6 +5,8 @@ A **Streamlit-based AI application** that helps users explore biomedical researc
 
 The application provides a research-oriented summary of biomedical evidence, including key findings, common themes, research methods, limitations, potential research gaps, and future research directions.
 
+Access to the this : https://biomedicalliteratureassistant-ck3kw2cgmrdnjxfrsoizts.streamlit.app/
+
 ## 🎯 Project Objective
 Biomedical researchers often need to review a large number of scientific publications to understand a research topic.
 
